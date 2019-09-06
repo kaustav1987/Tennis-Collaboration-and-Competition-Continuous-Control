@@ -2,7 +2,7 @@
 
 ### Deep Reinforcement Learning Tennis-Collaboration and Competition Continuous Control   
 ### Introduction
-In this project, I build a reinforcement learning (RL) agent that controls 2 Tennis Playing Agents within Unity's [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. 
+In this project, I build a reinforcement learning (RL) agent that controls 2 Tennis Playing Agents within Unity's  environment. 
 The goal is to get 2 Tennis Playing Agents play tennis in collaboration as long as possible, i.e. the longer the rally the better
 
 The task solved here refers to a collaboration continuous control problem where two agents must be able to play "tennis" in collaboration, that is, the longer the rally goes the higher will be the reward that both agents will earn.
